@@ -1,0 +1,573 @@
+,date,Contract Area,value
+0,2018-01-01,T1 North Shore Line,2226851
+1,2018-02-01,T1 North Shore Line,2316457
+2,2018-03-01,T1 North Shore Line,2667277
+3,2018-04-01,T1 North Shore Line,2400762
+4,2018-05-01,T1 North Shore Line,2760329
+5,2018-06-01,T1 North Shore Line,2565643
+6,2018-07-01,T1 North Shore Line,2637018
+7,2018-08-01,T1 North Shore Line,2682911
+8,2018-09-01,T1 North Shore Line,2563569
+9,2018-10-01,T1 North Shore Line,3934360
+10,2018-11-01,T1 North Shore Line,3997909
+11,2018-12-01,T1 North Shore Line,3392689
+12,2019-01-01,T1 North Shore Line,3281678
+13,2019-02-01,T1 North Shore Line,3704351
+14,2019-03-01,T1 North Shore Line,4090344
+15,2019-04-01,T1 North Shore Line,3660684
+16,2019-05-01,T1 North Shore Line,4301314
+17,2019-06-01,T1 North Shore Line,3695748
+18,2019-07-01,T1 North Shore Line,3928123
+19,2019-08-01,T1 North Shore Line,3888756
+20,2019-09-01,T1 North Shore Line,3871250
+21,2019-10-01,T1 North Shore Line,3901692
+22,2019-11-01,T1 North Shore Line,3561284
+23,2019-12-01,T1 North Shore Line,3316036
+24,2020-01-01,T1 North Shore Line,3093253
+25,2020-02-01,T1 North Shore Line,3133757
+26,2020-03-01,T1 North Shore Line,2069299
+27,2020-04-01,T1 North Shore Line,485552
+28,2020-05-01,T1 North Shore Line,676891
+29,2020-06-01,T1 North Shore Line,1070459
+30,2020-07-01,T1 North Shore Line,1230403
+31,2020-08-01,T1 North Shore Line,1093775
+32,2020-09-01,T1 North Shore Line,1240705
+33,2020-10-01,T1 North Shore Line,1260011
+34,2020-11-01,T1 North Shore Line,1323033
+35,2020-12-01,T1 North Shore Line,1256128
+36,2021-01-01,T1 North Shore Line,905707
+37,2021-02-01,T1 North Shore Line,1443302
+38,2021-03-01,T1 North Shore Line,1669777
+39,2021-04-01,T1 North Shore Line,1578775
+40,2021-05-01,T1 North Shore Line,1682139
+41,2021-06-01,T1 North Shore Line,1330645
+42,2021-07-01,T1 North Shore Line,347290
+43,2021-08-01,T1 North Shore Line,316890
+44,2018-01-01,T1 Northern Line,2954902
+45,2018-02-01,T1 Northern Line,3059946
+46,2018-03-01,T1 Northern Line,3474979
+47,2018-04-01,T1 Northern Line,3319886
+48,2018-05-01,T1 Northern Line,3744206
+49,2018-06-01,T1 Northern Line,3335709
+50,2018-07-01,T1 Northern Line,3442504
+51,2018-08-01,T1 Northern Line,3606618
+52,2018-09-01,T1 Northern Line,3369189
+53,2018-10-01,T1 Northern Line,1848498
+54,2018-11-01,T1 Northern Line,1865519
+55,2018-12-01,T1 Northern Line,1600308
+56,2019-01-01,T1 Northern Line,1542273
+57,2019-02-01,T1 Northern Line,1666367
+58,2019-03-01,T1 Northern Line,1881659
+59,2019-04-01,T1 Northern Line,1552262
+60,2019-05-01,T1 Northern Line,0
+61,2019-06-01,T1 Northern Line,0
+62,2019-07-01,T1 Northern Line,0
+63,2019-08-01,T1 Northern Line,0
+64,2019-09-01,T1 Northern Line,0
+65,2019-10-01,T1 Northern Line,0
+66,2019-11-01,T1 Northern Line,0
+67,2019-12-01,T1 Northern Line,0
+68,2020-01-01,T1 Northern Line,0
+69,2020-02-01,T1 Northern Line,0
+70,2020-03-01,T1 Northern Line,0
+71,2020-04-01,T1 Northern Line,0
+72,2020-05-01,T1 Northern Line,0
+73,2020-06-01,T1 Northern Line,0
+74,2020-07-01,T1 Northern Line,0
+75,2020-08-01,T1 Northern Line,0
+76,2020-09-01,T1 Northern Line,0
+77,2020-10-01,T1 Northern Line,0
+78,2020-11-01,T1 Northern Line,0
+79,2020-12-01,T1 Northern Line,0
+80,2021-01-01,T1 Northern Line,0
+81,2021-02-01,T1 Northern Line,0
+82,2021-03-01,T1 Northern Line,0
+83,2021-04-01,T1 Northern Line,0
+84,2021-05-01,T1 Northern Line,0
+85,2021-06-01,T1 Northern Line,0
+86,2021-07-01,T1 Northern Line,0
+87,2021-08-01,T1 Northern Line,0
+88,2018-01-01,T1 Western Line,2796911
+89,2018-02-01,T1 Western Line,2918543
+90,2018-03-01,T1 Western Line,3418443
+91,2018-04-01,T1 Western Line,2910641
+92,2018-05-01,T1 Western Line,3524368
+93,2018-06-01,T1 Western Line,3228729
+94,2018-07-01,T1 Western Line,3247765
+95,2018-08-01,T1 Western Line,3537823
+96,2018-09-01,T1 Western Line,3302273
+97,2018-10-01,T1 Western Line,3454454
+98,2018-11-01,T1 Western Line,3523629
+99,2018-12-01,T1 Western Line,2994733
+100,2019-01-01,T1 Western Line,3108795
+101,2019-02-01,T1 Western Line,3001659
+102,2019-03-01,T1 Western Line,3510464
+103,2019-04-01,T1 Western Line,3325419
+104,2019-05-01,T1 Western Line,3325298
+105,2019-06-01,T1 Western Line,3150348
+106,2019-07-01,T1 Western Line,3380804
+107,2019-08-01,T1 Western Line,3296718
+108,2019-09-01,T1 Western Line,3181787
+109,2019-10-01,T1 Western Line,3233244
+110,2019-11-01,T1 Western Line,3024719
+111,2019-12-01,T1 Western Line,2883609
+112,2020-01-01,T1 Western Line,2523128
+113,2020-02-01,T1 Western Line,2770713
+114,2020-03-01,T1 Western Line,2125533
+115,2020-04-01,T1 Western Line,642367
+116,2020-05-01,T1 Western Line,927178
+117,2020-06-01,T1 Western Line,1133341
+118,2020-07-01,T1 Western Line,1341297
+119,2020-08-01,T1 Western Line,1177640
+120,2020-09-01,T1 Western Line,1310292
+121,2020-10-01,T1 Western Line,1362387
+122,2020-11-01,T1 Western Line,1336521
+123,2020-12-01,T1 Western Line,1305718
+124,2021-01-01,T1 Western Line,1167183
+125,2021-02-01,T1 Western Line,1288874
+126,2021-03-01,T1 Western Line,1516491
+127,2021-04-01,T1 Western Line,1560835
+128,2021-05-01,T1 Western Line,1588603
+129,2021-06-01,T1 Western Line,1340677
+130,2021-07-01,T1 Western Line,575452
+131,2021-08-01,T1 Western Line,427831
+132,2018-01-01,T2 Inner West Line,1426749
+133,2018-02-01,T2 Inner West Line,1496797
+134,2018-03-01,T2 Inner West Line,1657311
+135,2018-04-01,T2 Inner West Line,1522022
+136,2018-05-01,T2 Inner West Line,1792329
+137,2018-06-01,T2 Inner West Line,1593430
+138,2018-07-01,T2 Inner West Line,1647308
+139,2018-08-01,T2 Inner West Line,1744309
+140,2018-09-01,T2 Inner West Line,1627875
+141,2018-10-01,T2 Inner West Line,1717333
+142,2018-11-01,T2 Inner West Line,1786040
+143,2018-12-01,T2 Inner West Line,1472287
+144,2019-01-01,T2 Inner West Line,1468544
+145,2019-02-01,T2 Inner West Line,1660674
+146,2019-03-01,T2 Inner West Line,1642593
+147,2019-04-01,T2 Inner West Line,1490097
+148,2019-05-01,T2 Inner West Line,1826437
+149,2019-06-01,T2 Inner West Line,1582778
+150,2019-07-01,T2 Inner West Line,1669784
+151,2019-08-01,T2 Inner West Line,1705110
+152,2019-09-01,T2 Inner West Line,1619201
+153,2019-10-01,T2 Inner West Line,1591183
+154,2019-11-01,T2 Inner West Line,1617721
+155,2019-12-01,T2 Inner West Line,1302389
+156,2020-01-01,T2 Inner West Line,1420531
+157,2020-02-01,T2 Inner West Line,1318084
+158,2020-03-01,T2 Inner West Line,958213
+159,2020-04-01,T2 Inner West Line,313689
+160,2020-05-01,T2 Inner West Line,458465
+161,2020-06-01,T2 Inner West Line,602445
+162,2020-07-01,T2 Inner West Line,676801
+163,2020-08-01,T2 Inner West Line,636061
+164,2020-09-01,T2 Inner West Line,660085
+165,2020-10-01,T2 Inner West Line,654532
+166,2020-11-01,T2 Inner West Line,717346
+167,2020-12-01,T2 Inner West Line,651915
+168,2021-01-01,T2 Inner West Line,505089
+169,2021-02-01,T2 Inner West Line,689426
+170,2021-03-01,T2 Inner West Line,760422
+171,2021-04-01,T2 Inner West Line,677650
+172,2021-05-01,T2 Inner West Line,690610
+173,2021-06-01,T2 Inner West Line,629606
+174,2021-07-01,T2 Inner West Line,208118
+175,2021-08-01,T2 Inner West Line,170378
+176,2018-01-01,T2 Leppington Line,1814059
+177,2018-02-01,T2 Leppington Line,1833792
+178,2018-03-01,T2 Leppington Line,2155842
+179,2018-04-01,T2 Leppington Line,1958926
+180,2018-05-01,T2 Leppington Line,2266324
+181,2018-06-01,T2 Leppington Line,2082714
+182,2018-07-01,T2 Leppington Line,2137077
+183,2018-08-01,T2 Leppington Line,2244451
+184,2018-09-01,T2 Leppington Line,2116548
+185,2018-10-01,T2 Leppington Line,2209420
+186,2018-11-01,T2 Leppington Line,2198220
+187,2018-12-01,T2 Leppington Line,1808124
+188,2019-01-01,T2 Leppington Line,1896752
+189,2019-02-01,T2 Leppington Line,1964415
+190,2019-03-01,T2 Leppington Line,2176979
+191,2019-04-01,T2 Leppington Line,1942761
+192,2019-05-01,T2 Leppington Line,2447171
+193,2019-06-01,T2 Leppington Line,2085114
+194,2019-07-01,T2 Leppington Line,2027643
+195,2019-08-01,T2 Leppington Line,2150214
+196,2019-09-01,T2 Leppington Line,1955531
+197,2019-10-01,T2 Leppington Line,2062868
+198,2019-11-01,T2 Leppington Line,1949907
+199,2019-12-01,T2 Leppington Line,1747368
+200,2020-01-01,T2 Leppington Line,1763091
+201,2020-02-01,T2 Leppington Line,1648119
+202,2020-03-01,T2 Leppington Line,1315910
+203,2020-04-01,T2 Leppington Line,494019
+204,2020-05-01,T2 Leppington Line,643070
+205,2020-06-01,T2 Leppington Line,805730
+206,2020-07-01,T2 Leppington Line,929968
+207,2020-08-01,T2 Leppington Line,879921
+208,2020-09-01,T2 Leppington Line,868169
+209,2020-10-01,T2 Leppington Line,911566
+210,2020-11-01,T2 Leppington Line,935714
+211,2020-12-01,T2 Leppington Line,901507
+212,2021-01-01,T2 Leppington Line,760706
+213,2021-02-01,T2 Leppington Line,841802
+214,2021-03-01,T2 Leppington Line,1037618
+215,2021-04-01,T2 Leppington Line,965328
+216,2021-05-01,T2 Leppington Line,910282
+217,2021-06-01,T2 Leppington Line,864793
+218,2021-07-01,T2 Leppington Line,351305
+219,2021-08-01,T2 Leppington Line,278583
+220,2018-01-01,T3 Bankstown Line,1620196
+221,2018-02-01,T3 Bankstown Line,1596492
+222,2018-03-01,T3 Bankstown Line,1891061
+223,2018-04-01,T3 Bankstown Line,1837444
+224,2018-05-01,T3 Bankstown Line,2046455
+225,2018-06-01,T3 Bankstown Line,1869787
+226,2018-07-01,T3 Bankstown Line,1908824
+227,2018-08-01,T3 Bankstown Line,1965061
+228,2018-09-01,T3 Bankstown Line,1896056
+229,2018-10-01,T3 Bankstown Line,1985959
+230,2018-11-01,T3 Bankstown Line,1898095
+231,2018-12-01,T3 Bankstown Line,1871057
+232,2019-01-01,T3 Bankstown Line,1729333
+233,2019-02-01,T3 Bankstown Line,1756545
+234,2019-03-01,T3 Bankstown Line,2022964
+235,2019-04-01,T3 Bankstown Line,1886398
+236,2019-05-01,T3 Bankstown Line,2107379
+237,2019-06-01,T3 Bankstown Line,1801128
+238,2019-07-01,T3 Bankstown Line,1768502
+239,2019-08-01,T3 Bankstown Line,1690069
+240,2019-09-01,T3 Bankstown Line,1671643
+241,2019-10-01,T3 Bankstown Line,1875578
+242,2019-11-01,T3 Bankstown Line,1729551
+243,2019-12-01,T3 Bankstown Line,1517584
+244,2020-01-01,T3 Bankstown Line,1497515
+245,2020-02-01,T3 Bankstown Line,1471542
+246,2020-03-01,T3 Bankstown Line,1119657
+247,2020-04-01,T3 Bankstown Line,411559
+248,2020-05-01,T3 Bankstown Line,520450
+249,2020-06-01,T3 Bankstown Line,768758
+250,2020-07-01,T3 Bankstown Line,835690
+251,2020-08-01,T3 Bankstown Line,743384
+252,2020-09-01,T3 Bankstown Line,790588
+253,2020-10-01,T3 Bankstown Line,807045
+254,2020-11-01,T3 Bankstown Line,824383
+255,2020-12-01,T3 Bankstown Line,720177
+256,2021-01-01,T3 Bankstown Line,639096
+257,2021-02-01,T3 Bankstown Line,781137
+258,2021-03-01,T3 Bankstown Line,851759
+259,2021-04-01,T3 Bankstown Line,850934
+260,2021-05-01,T3 Bankstown Line,846030
+261,2021-06-01,T3 Bankstown Line,706701
+262,2021-07-01,T3 Bankstown Line,208600
+263,2021-08-01,T3 Bankstown Line,198775
+264,2018-01-01,T4 Eastern Suburbs and Illawarra Line,4174954
+265,2018-02-01,T4 Eastern Suburbs and Illawarra Line,4352183
+266,2018-03-01,T4 Eastern Suburbs and Illawarra Line,4639415
+267,2018-04-01,T4 Eastern Suburbs and Illawarra Line,4334778
+268,2018-05-01,T4 Eastern Suburbs and Illawarra Line,4943506
+269,2018-06-01,T4 Eastern Suburbs and Illawarra Line,4422907
+270,2018-07-01,T4 Eastern Suburbs and Illawarra Line,4592540
+271,2018-08-01,T4 Eastern Suburbs and Illawarra Line,4853759
+272,2018-09-01,T4 Eastern Suburbs and Illawarra Line,4420673
+273,2018-10-01,T4 Eastern Suburbs and Illawarra Line,4809361
+274,2018-11-01,T4 Eastern Suburbs and Illawarra Line,4936009
+275,2018-12-01,T4 Eastern Suburbs and Illawarra Line,4108485
+276,2019-01-01,T4 Eastern Suburbs and Illawarra Line,4274023
+277,2019-02-01,T4 Eastern Suburbs and Illawarra Line,4410384
+278,2019-03-01,T4 Eastern Suburbs and Illawarra Line,4703507
+279,2019-04-01,T4 Eastern Suburbs and Illawarra Line,4153949
+280,2019-05-01,T4 Eastern Suburbs and Illawarra Line,4896361
+281,2019-06-01,T4 Eastern Suburbs and Illawarra Line,4219721
+282,2019-07-01,T4 Eastern Suburbs and Illawarra Line,4531917
+283,2019-08-01,T4 Eastern Suburbs and Illawarra Line,4501854
+284,2019-09-01,T4 Eastern Suburbs and Illawarra Line,4371948
+285,2019-10-01,T4 Eastern Suburbs and Illawarra Line,4363362
+286,2019-11-01,T4 Eastern Suburbs and Illawarra Line,4299504
+287,2019-12-01,T4 Eastern Suburbs and Illawarra Line,3673566
+288,2020-01-01,T4 Eastern Suburbs and Illawarra Line,3621442
+289,2020-02-01,T4 Eastern Suburbs and Illawarra Line,3620407
+290,2020-03-01,T4 Eastern Suburbs and Illawarra Line,2634216
+291,2020-04-01,T4 Eastern Suburbs and Illawarra Line,825095
+292,2020-05-01,T4 Eastern Suburbs and Illawarra Line,1196383
+293,2020-06-01,T4 Eastern Suburbs and Illawarra Line,1548468
+294,2020-07-01,T4 Eastern Suburbs and Illawarra Line,1811153
+295,2020-08-01,T4 Eastern Suburbs and Illawarra Line,1627022
+296,2020-09-01,T4 Eastern Suburbs and Illawarra Line,1723695
+297,2020-10-01,T4 Eastern Suburbs and Illawarra Line,1814118
+298,2020-11-01,T4 Eastern Suburbs and Illawarra Line,1859135
+299,2020-12-01,T4 Eastern Suburbs and Illawarra Line,1671861
+300,2021-01-01,T4 Eastern Suburbs and Illawarra Line,1538773
+301,2021-02-01,T4 Eastern Suburbs and Illawarra Line,1713603
+302,2021-03-01,T4 Eastern Suburbs and Illawarra Line,1982189
+303,2021-04-01,T4 Eastern Suburbs and Illawarra Line,1856641
+304,2021-05-01,T4 Eastern Suburbs and Illawarra Line,1937118
+305,2021-06-01,T4 Eastern Suburbs and Illawarra Line,1596551
+306,2021-07-01,T4 Eastern Suburbs and Illawarra Line,631262
+307,2021-08-01,T4 Eastern Suburbs and Illawarra Line,530365
+308,2018-01-01,T5 Cumberland Line,355946
+309,2018-02-01,T5 Cumberland Line,407412
+310,2018-03-01,T5 Cumberland Line,451455
+311,2018-04-01,T5 Cumberland Line,504958
+312,2018-05-01,T5 Cumberland Line,480176
+313,2018-06-01,T5 Cumberland Line,470595
+314,2018-07-01,T5 Cumberland Line,484141
+315,2018-08-01,T5 Cumberland Line,520653
+316,2018-09-01,T5 Cumberland Line,480011
+317,2018-10-01,T5 Cumberland Line,513278
+318,2018-11-01,T5 Cumberland Line,475774
+319,2018-12-01,T5 Cumberland Line,507801
+320,2019-01-01,T5 Cumberland Line,443304
+321,2019-02-01,T5 Cumberland Line,424774
+322,2019-03-01,T5 Cumberland Line,539652
+323,2019-04-01,T5 Cumberland Line,472159
+324,2019-05-01,T5 Cumberland Line,517679
+325,2019-06-01,T5 Cumberland Line,508702
+326,2019-07-01,T5 Cumberland Line,561574
+327,2019-08-01,T5 Cumberland Line,524436
+328,2019-09-01,T5 Cumberland Line,523202
+329,2019-10-01,T5 Cumberland Line,568761
+330,2019-11-01,T5 Cumberland Line,566699
+331,2019-12-01,T5 Cumberland Line,427633
+332,2020-01-01,T5 Cumberland Line,421240
+333,2020-02-01,T5 Cumberland Line,413465
+334,2020-03-01,T5 Cumberland Line,368869
+335,2020-04-01,T5 Cumberland Line,112667
+336,2020-05-01,T5 Cumberland Line,155028
+337,2020-06-01,T5 Cumberland Line,276962
+338,2020-07-01,T5 Cumberland Line,243046
+339,2020-08-01,T5 Cumberland Line,207021
+340,2020-09-01,T5 Cumberland Line,229245
+341,2020-10-01,T5 Cumberland Line,254410
+342,2020-11-01,T5 Cumberland Line,235327
+343,2020-12-01,T5 Cumberland Line,237546
+344,2021-01-01,T5 Cumberland Line,201514
+345,2021-02-01,T5 Cumberland Line,293372
+346,2021-03-01,T5 Cumberland Line,284364
+347,2021-04-01,T5 Cumberland Line,279616
+348,2021-05-01,T5 Cumberland Line,305354
+349,2021-06-01,T5 Cumberland Line,244406
+350,2021-07-01,T5 Cumberland Line,100527
+351,2021-08-01,T5 Cumberland Line,62647
+352,2018-01-01,T6 Carlingford Line,27240
+353,2018-02-01,T6 Carlingford Line,31700
+354,2018-03-01,T6 Carlingford Line,36609
+355,2018-04-01,T6 Carlingford Line,31084
+356,2018-05-01,T6 Carlingford Line,37686
+357,2018-06-01,T6 Carlingford Line,33170
+358,2018-07-01,T6 Carlingford Line,34899
+359,2018-08-01,T6 Carlingford Line,38899
+360,2018-09-01,T6 Carlingford Line,36493
+361,2018-10-01,T6 Carlingford Line,37446
+362,2018-11-01,T6 Carlingford Line,38178
+363,2018-12-01,T6 Carlingford Line,30398
+364,2019-01-01,T6 Carlingford Line,30095
+365,2019-02-01,T6 Carlingford Line,32674
+366,2019-03-01,T6 Carlingford Line,39624
+367,2019-04-01,T6 Carlingford Line,34503
+368,2019-05-01,T6 Carlingford Line,40683
+369,2019-06-01,T6 Carlingford Line,35826
+370,2019-07-01,T6 Carlingford Line,37837
+371,2019-08-01,T6 Carlingford Line,38352
+372,2019-09-01,T6 Carlingford Line,36406
+373,2019-10-01,T6 Carlingford Line,35945
+374,2019-11-01,T6 Carlingford Line,33761
+375,2019-12-01,T6 Carlingford Line,28312
+376,2020-01-01,T6 Carlingford Line,2261
+377,2020-02-01,T6 Carlingford Line,0
+378,2020-03-01,T6 Carlingford Line,0
+379,2020-04-01,T6 Carlingford Line,0
+380,2020-05-01,T6 Carlingford Line,0
+381,2020-06-01,T6 Carlingford Line,0
+382,2020-07-01,T6 Carlingford Line,0
+383,2020-08-01,T6 Carlingford Line,0
+384,2020-09-01,T6 Carlingford Line,0
+385,2020-10-01,T6 Carlingford Line,0
+386,2020-11-01,T6 Carlingford Line,0
+387,2020-12-01,T6 Carlingford Line,0
+388,2021-01-01,T6 Carlingford Line,0
+389,2021-02-01,T6 Carlingford Line,0
+390,2021-03-01,T6 Carlingford Line,0
+391,2021-04-01,T6 Carlingford Line,0
+392,2021-05-01,T6 Carlingford Line,0
+393,2021-06-01,T6 Carlingford Line,0
+394,2021-07-01,T6 Carlingford Line,0
+395,2021-08-01,T6 Carlingford Line,0
+396,2018-01-01,T6 replacement buses,0
+397,2018-02-01,T6 replacement buses,0
+398,2018-03-01,T6 replacement buses,0
+399,2018-04-01,T6 replacement buses,0
+400,2018-05-01,T6 replacement buses,0
+401,2018-06-01,T6 replacement buses,0
+402,2018-07-01,T6 replacement buses,0
+403,2018-08-01,T6 replacement buses,0
+404,2018-09-01,T6 replacement buses,0
+405,2018-10-01,T6 replacement buses,0
+406,2018-11-01,T6 replacement buses,0
+407,2018-12-01,T6 replacement buses,0
+408,2019-01-01,T6 replacement buses,0
+409,2019-02-01,T6 replacement buses,0
+410,2019-03-01,T6 replacement buses,0
+411,2019-04-01,T6 replacement buses,0
+412,2019-05-01,T6 replacement buses,0
+413,2019-06-01,T6 replacement buses,0
+414,2019-07-01,T6 replacement buses,0
+415,2019-08-01,T6 replacement buses,0
+416,2019-09-01,T6 replacement buses,0
+417,2019-10-01,T6 replacement buses,0
+418,2019-11-01,T6 replacement buses,0
+419,2019-12-01,T6 replacement buses,0
+420,2020-01-01,T6 replacement buses,13956
+421,2020-02-01,T6 replacement buses,17294
+422,2020-03-01,T6 replacement buses,9510
+423,2020-04-01,T6 replacement buses,3342
+424,2020-05-01,T6 replacement buses,5357
+425,2020-06-01,T6 replacement buses,6890
+426,2020-07-01,T6 replacement buses,7366
+427,2020-08-01,T6 replacement buses,6881
+428,2020-09-01,T6 replacement buses,7341
+429,2020-10-01,T6 replacement buses,7363
+430,2020-11-01,T6 replacement buses,7685
+431,2020-12-01,T6 replacement buses,7130
+432,2021-01-01,T6 replacement buses,5673
+433,2021-02-01,T6 replacement buses,6984
+434,2021-03-01,T6 replacement buses,8548
+435,2021-04-01,T6 replacement buses,7824
+436,2021-05-01,T6 replacement buses,8229
+437,2021-06-01,T6 replacement buses,7560
+438,2021-07-01,T6 replacement buses,3908
+439,2021-08-01,T6 replacement buses,3309
+440,2018-01-01,T7 Olympic Park Line,87544
+441,2018-02-01,T7 Olympic Park Line,98841
+442,2018-03-01,T7 Olympic Park Line,114620
+443,2018-04-01,T7 Olympic Park Line,99771
+444,2018-05-01,T7 Olympic Park Line,117970
+445,2018-06-01,T7 Olympic Park Line,114049
+446,2018-07-01,T7 Olympic Park Line,142274
+447,2018-08-01,T7 Olympic Park Line,135406
+448,2018-09-01,T7 Olympic Park Line,114671
+449,2018-10-01,T7 Olympic Park Line,121705
+450,2018-11-01,T7 Olympic Park Line,123807
+451,2018-12-01,T7 Olympic Park Line,98591
+452,2019-01-01,T7 Olympic Park Line,125483
+453,2019-02-01,T7 Olympic Park Line,117609
+454,2019-03-01,T7 Olympic Park Line,124265
+455,2019-04-01,T7 Olympic Park Line,104042
+456,2019-05-01,T7 Olympic Park Line,116123
+457,2019-06-01,T7 Olympic Park Line,119946
+458,2019-07-01,T7 Olympic Park Line,130082
+459,2019-08-01,T7 Olympic Park Line,120692
+460,2019-09-01,T7 Olympic Park Line,108395
+461,2019-10-01,T7 Olympic Park Line,100469
+462,2019-11-01,T7 Olympic Park Line,105742
+463,2019-12-01,T7 Olympic Park Line,80962
+464,2020-01-01,T7 Olympic Park Line,105628
+465,2020-02-01,T7 Olympic Park Line,78861
+466,2020-03-01,T7 Olympic Park Line,50536
+467,2020-04-01,T7 Olympic Park Line,9344
+468,2020-05-01,T7 Olympic Park Line,11546
+469,2020-06-01,T7 Olympic Park Line,21971
+470,2020-07-01,T7 Olympic Park Line,24596
+471,2020-08-01,T7 Olympic Park Line,21371
+472,2020-09-01,T7 Olympic Park Line,19660
+473,2020-10-01,T7 Olympic Park Line,24069
+474,2020-11-01,T7 Olympic Park Line,25665
+475,2020-12-01,T7 Olympic Park Line,26118
+476,2021-01-01,T7 Olympic Park Line,19725
+477,2021-02-01,T7 Olympic Park Line,29285
+478,2021-03-01,T7 Olympic Park Line,37870
+479,2021-04-01,T7 Olympic Park Line,65358
+480,2021-05-01,T7 Olympic Park Line,48087
+481,2021-06-01,T7 Olympic Park Line,51312
+482,2021-07-01,T7 Olympic Park Line,25498
+483,2021-08-01,T7 Olympic Park Line,35053
+484,2018-01-01,T8 Airport and South Line,2653379
+485,2018-02-01,T8 Airport and South Line,2666649
+486,2018-03-01,T8 Airport and South Line,3147409
+487,2018-04-01,T8 Airport and South Line,2712914
+488,2018-05-01,T8 Airport and South Line,3198667
+489,2018-06-01,T8 Airport and South Line,2965021
+490,2018-07-01,T8 Airport and South Line,2981146
+491,2018-08-01,T8 Airport and South Line,3155420
+492,2018-09-01,T8 Airport and South Line,2918954
+493,2018-10-01,T8 Airport and South Line,3138780
+494,2018-11-01,T8 Airport and South Line,3205506
+495,2018-12-01,T8 Airport and South Line,2758636
+496,2019-01-01,T8 Airport and South Line,2782379
+497,2019-02-01,T8 Airport and South Line,2828725
+498,2019-03-01,T8 Airport and South Line,3155673
+499,2019-04-01,T8 Airport and South Line,2824091
+500,2019-05-01,T8 Airport and South Line,3126771
+501,2019-06-01,T8 Airport and South Line,2900491
+502,2019-07-01,T8 Airport and South Line,3410254
+503,2019-08-01,T8 Airport and South Line,3343056
+504,2019-09-01,T8 Airport and South Line,3121518
+505,2019-10-01,T8 Airport and South Line,2944698
+506,2019-11-01,T8 Airport and South Line,2824192
+507,2019-12-01,T8 Airport and South Line,2528071
+508,2020-01-01,T8 Airport and South Line,2375602
+509,2020-02-01,T8 Airport and South Line,2263646
+510,2020-03-01,T8 Airport and South Line,1709866
+511,2020-04-01,T8 Airport and South Line,437771
+512,2020-05-01,T8 Airport and South Line,598735
+513,2020-06-01,T8 Airport and South Line,853680
+514,2020-07-01,T8 Airport and South Line,957505
+515,2020-08-01,T8 Airport and South Line,881254
+516,2020-09-01,T8 Airport and South Line,932704
+517,2020-10-01,T8 Airport and South Line,983076
+518,2020-11-01,T8 Airport and South Line,1025912
+519,2020-12-01,T8 Airport and South Line,957763
+520,2021-01-01,T8 Airport and South Line,827040
+521,2021-02-01,T8 Airport and South Line,1028685
+522,2021-03-01,T8 Airport and South Line,1228446
+523,2021-04-01,T8 Airport and South Line,1195959
+524,2021-05-01,T8 Airport and South Line,1203356
+525,2021-06-01,T8 Airport and South Line,999705
+526,2021-07-01,T8 Airport and South Line,362972
+527,2021-08-01,T8 Airport and South Line,254971
+528,2018-01-01,T9 Northern Line,0
+529,2018-02-01,T9 Northern Line,0
+530,2018-03-01,T9 Northern Line,0
+531,2018-04-01,T9 Northern Line,0
+532,2018-05-01,T9 Northern Line,0
+533,2018-06-01,T9 Northern Line,0
+534,2018-07-01,T9 Northern Line,0
+535,2018-08-01,T9 Northern Line,0
+536,2018-09-01,T9 Northern Line,0
+537,2018-10-01,T9 Northern Line,0
+538,2018-11-01,T9 Northern Line,0
+539,2018-12-01,T9 Northern Line,0
+540,2019-01-01,T9 Northern Line,0
+541,2019-02-01,T9 Northern Line,0
+542,2019-03-01,T9 Northern Line,0
+543,2019-04-01,T9 Northern Line,176999
+544,2019-05-01,T9 Northern Line,1956943
+545,2019-06-01,T9 Northern Line,1626311
+546,2019-07-01,T9 Northern Line,1906632
+547,2019-08-01,T9 Northern Line,1906845
+548,2019-09-01,T9 Northern Line,1743923
+549,2019-10-01,T9 Northern Line,1697214
+550,2019-11-01,T9 Northern Line,1728736
+551,2019-12-01,T9 Northern Line,1426920
+552,2020-01-01,T9 Northern Line,1364962
+553,2020-02-01,T9 Northern Line,1392764
+554,2020-03-01,T9 Northern Line,1036636
+555,2020-04-01,T9 Northern Line,272697
+556,2020-05-01,T9 Northern Line,415415
+557,2020-06-01,T9 Northern Line,568700
+558,2020-07-01,T9 Northern Line,631818
+559,2020-08-01,T9 Northern Line,626359
+560,2020-09-01,T9 Northern Line,625206
+561,2020-10-01,T9 Northern Line,682204
+562,2020-11-01,T9 Northern Line,744982
+563,2020-12-01,T9 Northern Line,676693
+564,2021-01-01,T9 Northern Line,591055
+565,2021-02-01,T9 Northern Line,698236
+566,2021-03-01,T9 Northern Line,772130
+567,2021-04-01,T9 Northern Line,790858
+568,2021-05-01,T9 Northern Line,846242
+569,2021-06-01,T9 Northern Line,618143
+570,2021-07-01,T9 Northern Line,220326
+571,2021-08-01,T9 Northern Line,186980
