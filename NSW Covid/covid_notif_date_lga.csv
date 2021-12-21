@@ -1315,7 +1315,7 @@
 1313,2021-12-07,Georges River (A),11
 1314,2021-12-07,Liverpool (C),32
 1315,2021-12-07,Parramatta (C),6
-1316,2021-12-08,Blacktown (C),22
+1316,2021-12-08,Blacktown (C),21
 1317,2021-12-08,Campbelltown (C) (NSW),12
 1318,2021-12-08,Canterbury-Bankstown (A),51
 1319,2021-12-08,Cumberland (A),26
@@ -1326,14 +1326,14 @@
 1324,2021-12-09,Blacktown (C),32
 1325,2021-12-09,Campbelltown (C) (NSW),9
 1326,2021-12-09,Canterbury-Bankstown (A),65
-1327,2021-12-09,Cumberland (A),59
+1327,2021-12-09,Cumberland (A),58
 1328,2021-12-09,Fairfield (C),38
 1329,2021-12-09,Georges River (A),6
 1330,2021-12-09,Liverpool (C),30
 1331,2021-12-09,Parramatta (C),12
 1332,2021-12-10,Blacktown (C),12
 1333,2021-12-10,Campbelltown (C) (NSW),9
-1334,2021-12-10,Canterbury-Bankstown (A),61
+1334,2021-12-10,Canterbury-Bankstown (A),60
 1335,2021-12-10,Cumberland (A),40
 1336,2021-12-10,Fairfield (C),36
 1337,2021-12-10,Georges River (A),12
@@ -1341,41 +1341,81 @@
 1339,2021-12-10,Parramatta (C),10
 1340,2021-12-11,Blacktown (C),27
 1341,2021-12-11,Campbelltown (C) (NSW),5
-1342,2021-12-11,Canterbury-Bankstown (A),61
+1342,2021-12-11,Canterbury-Bankstown (A),60
 1343,2021-12-11,Cumberland (A),56
-1344,2021-12-11,Fairfield (C),24
+1344,2021-12-11,Fairfield (C),23
 1345,2021-12-11,Georges River (A),7
 1346,2021-12-11,Liverpool (C),26
 1347,2021-12-11,Parramatta (C),13
 1348,2021-12-12,Blacktown (C),32
-1349,2021-12-12,Campbelltown (C) (NSW),21
-1350,2021-12-12,Canterbury-Bankstown (A),74
-1351,2021-12-12,Cumberland (A),49
+1349,2021-12-12,Campbelltown (C) (NSW),20
+1350,2021-12-12,Canterbury-Bankstown (A),72
+1351,2021-12-12,Cumberland (A),47
 1352,2021-12-12,Fairfield (C),31
-1353,2021-12-12,Georges River (A),9
+1353,2021-12-12,Georges River (A),10
 1354,2021-12-12,Liverpool (C),37
 1355,2021-12-12,Parramatta (C),9
 1356,2021-12-13,Blacktown (C),26
 1357,2021-12-13,Campbelltown (C) (NSW),19
-1358,2021-12-13,Canterbury-Bankstown (A),51
+1358,2021-12-13,Canterbury-Bankstown (A),50
 1359,2021-12-13,Cumberland (A),57
 1360,2021-12-13,Fairfield (C),30
 1361,2021-12-13,Georges River (A),12
 1362,2021-12-13,Liverpool (C),30
-1363,2021-12-13,Parramatta (C),12
-1364,2021-12-14,Blacktown (C),44
+1363,2021-12-13,Parramatta (C),11
+1364,2021-12-14,Blacktown (C),45
 1365,2021-12-14,Campbelltown (C) (NSW),36
-1366,2021-12-14,Canterbury-Bankstown (A),90
+1366,2021-12-14,Canterbury-Bankstown (A),88
 1367,2021-12-14,Cumberland (A),67
-1368,2021-12-14,Fairfield (C),64
-1369,2021-12-14,Georges River (A),13
-1370,2021-12-14,Liverpool (C),44
+1368,2021-12-14,Fairfield (C),63
+1369,2021-12-14,Georges River (A),12
+1370,2021-12-14,Liverpool (C),42
 1371,2021-12-14,Parramatta (C),23
-1372,2021-12-15,Blacktown (C),57
-1373,2021-12-15,Campbelltown (C) (NSW),23
-1374,2021-12-15,Canterbury-Bankstown (A),87
-1375,2021-12-15,Cumberland (A),57
-1376,2021-12-15,Fairfield (C),32
-1377,2021-12-15,Georges River (A),23
-1378,2021-12-15,Liverpool (C),48
-1379,2021-12-15,Parramatta (C),31
+1372,2021-12-15,Blacktown (C),96
+1373,2021-12-15,Campbelltown (C) (NSW),37
+1374,2021-12-15,Canterbury-Bankstown (A),116
+1375,2021-12-15,Cumberland (A),99
+1376,2021-12-15,Fairfield (C),59
+1377,2021-12-15,Georges River (A),35
+1378,2021-12-15,Liverpool (C),61
+1379,2021-12-15,Parramatta (C),40
+1380,2021-12-16,Blacktown (C),54
+1381,2021-12-16,Campbelltown (C) (NSW),27
+1382,2021-12-16,Canterbury-Bankstown (A),109
+1383,2021-12-16,Cumberland (A),60
+1384,2021-12-16,Fairfield (C),48
+1385,2021-12-16,Georges River (A),25
+1386,2021-12-16,Liverpool (C),63
+1387,2021-12-16,Parramatta (C),42
+1388,2021-12-17,Blacktown (C),89
+1389,2021-12-17,Campbelltown (C) (NSW),39
+1390,2021-12-17,Canterbury-Bankstown (A),143
+1391,2021-12-17,Cumberland (A),93
+1392,2021-12-17,Fairfield (C),93
+1393,2021-12-17,Georges River (A),38
+1394,2021-12-17,Liverpool (C),82
+1395,2021-12-17,Parramatta (C),43
+1396,2021-12-18,Blacktown (C),84
+1397,2021-12-18,Campbelltown (C) (NSW),48
+1398,2021-12-18,Canterbury-Bankstown (A),162
+1399,2021-12-18,Cumberland (A),90
+1400,2021-12-18,Fairfield (C),75
+1401,2021-12-18,Georges River (A),28
+1402,2021-12-18,Liverpool (C),65
+1403,2021-12-18,Parramatta (C),53
+1404,2021-12-19,Blacktown (C),107
+1405,2021-12-19,Campbelltown (C) (NSW),29
+1406,2021-12-19,Canterbury-Bankstown (A),150
+1407,2021-12-19,Cumberland (A),110
+1408,2021-12-19,Fairfield (C),59
+1409,2021-12-19,Georges River (A),37
+1410,2021-12-19,Liverpool (C),73
+1411,2021-12-19,Parramatta (C),46
+1412,2021-12-20,Blacktown (C),149
+1413,2021-12-20,Campbelltown (C) (NSW),41
+1414,2021-12-20,Canterbury-Bankstown (A),169
+1415,2021-12-20,Cumberland (A),97
+1416,2021-12-20,Fairfield (C),90
+1417,2021-12-20,Georges River (A),45
+1418,2021-12-20,Liverpool (C),74
+1419,2021-12-20,Parramatta (C),40
